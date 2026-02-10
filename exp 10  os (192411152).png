@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main() {
+    char msg[]="Hello";
+    printf("Sender: %s\n",msg);
+    printf("Receiver: %s\n",msg);
+    return 0;
+}
+
